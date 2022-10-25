@@ -1,0 +1,42 @@
+body {
+  margin: 0px;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1.4em;
+}
+.header {
+  align-items: center;
+  background-attachment: fixed;
+  background-image: url("/TaylorSwift.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  display: flex;
+  font-size: 1.4em;
+  height: 400px;
+  justify-content: center;
+}
+main {
+  padding: 5% 10%;
+}
+p {
+  display: block;
+  font-size: 1em;
+  font-weight: lighter;
+  margin: 5%;
+}
+
+.links {
+  font-size: 1em;
+  font-weight: normal;
+  margin: 2em;
+  align-items: center;
+}
+.discography {
+  font-size: 0.9em;
+  list-style-type: "- ";
+}
+.Impact {
+  font-size: 0.9em;
+}
